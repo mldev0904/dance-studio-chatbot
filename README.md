@@ -1,4 +1,4 @@
-# 💃 Fred Astaire Dance Studio Assistant
+# 💃 Dance Studio Assistant
 
 A custom AI chatbot created to assist website visitors of **Fred Astaire Dance Studios – Shelton, CT**. Built with [ChatGPTBuilder.com](https://chatgptbuilder.com), this assistant offers responsive, accurate, and brand-aligned support for all things ballroom dance.
 
