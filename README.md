@@ -1,6 +1,6 @@
 # 💃 Dance Studio Assistant
 
-A custom AI chatbot created to assist website visitors of **Dance Studios – Shelton, CT**. Built with [ChatGPTBuilder.com](https://chatgptbuilder.com), this assistant offers responsive, accurate, and brand-aligned support for all things ballroom dance.
+A custom AI chatbot created to assist website visitors of **Dance Studio – New York, NY**. Built with [ChatGPTBuilder.com](https://chatgptbuilder.com), this assistant offers responsive, accurate, and brand-aligned support for all things ballroom dance.
 
 ---
 
@@ -32,7 +32,7 @@ The assistant is explicitly guided to:
 - **Stay on-topic**: no advice outside the scope of ballroom dancing or studio-specific info
 - **Avoid hallucinations**: it does **not** fabricate responses
 - **Redirect off-topic questions** with:
-  > “I’m here to help with dance-related questions. For other inquiries, please contact our studio directly at (203) 876-8444 or via our contact page at [fredastaire.com/shelton](https://www.fredastaire.com/shelton)”
+  > “I’m here to help with dance-related questions. For other inquiries, please contact our studio directly at (917) 442-4522 or via our contact page at [fredastaire.com/ny-downtown/](https://www.fredastaire.com/ny-downtown/)”
 
 ---
 
@@ -40,9 +40,9 @@ The assistant is explicitly guided to:
 
 - Guardrails prevent sensitive, unsafe, or misleading content
 - All responses are rooted in information sourced from:
-  - [Studio FAQ](https://www.fredastaire.com/shelton/faqs/)
-  - [Types of Dance](https://www.fredastaire.com/shelton/types-of-dance/)
-  - [Fred Astaire Shelton Homepage](https://www.fredastaire.com/shelton)
+  - [Studio FAQ](https://www.fredastaire.com/ny-downtown/faqs/)
+  - [Types of Dance](https://www.fredastaire.com/ny-downtown/types-of-dance/)
+  - [Fred Astaire Downtown New York Homepage](https://www.fredastaire.com/ny-downtown/)
 
 ---
 
@@ -71,13 +71,13 @@ The assistant is explicitly guided to:
 ## 🤝 Author
 
 **Marjorie Lamour**  
-AI Chatbot Creator | Aspiring AI Product Manager  
+AI Chatbot Creator | AI Engineer  
 [LinkedIn](https://www.linkedin.com/in/marjorielamour/) | [GitHub Portfolio](https://github.com/mldev0904)
 
 ---
 
 ## 📞 Studio Contact Info
 
-Fred Astaire Dance Studios – Shelton, CT  
-📍 [fredastaire.com/shelton](https://www.fredastaire.com/shelton)  
-📞 (203) 876-8444  
+Fred Astaire Dance Studios – New York, NY  
+📍 [fredastaire.com/ny-downtown](https://www.fredastaire.com/ny-downtown)  
+📞 (917) 442-4522  
