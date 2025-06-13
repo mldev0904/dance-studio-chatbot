@@ -79,7 +79,7 @@ The dance studio offers an introductory special lesson for $50 for one 30 minute
 ---
 
 ## 🚀 Future Improvements
-- Collate the user inquiries to a file to provide to owner for lead generation campaign.  This can be the second agent in aa Agentic System
+- Collate the user inquiries to a file to provide to owner for lead generation campaign.  This can be the second agent in an Agentic System
 - Adjust Chabot configuration to add directions or make it easier for users to submit voice directions.  Right now, it is a little unclear that users have to press the play button to submit their voice inputs into the chatbot to proceedmake the voice submissions more apprarent
 
 ---
