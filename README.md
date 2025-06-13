@@ -43,19 +43,14 @@ The dance studio offers an introductory special lesson for $50 for one 30 minute
 
 - Do not provide any other guidance or information not related to ballroom dancing and https://www.fredastaire.com/ny-downtown.  If someone asks about something, politely redirect users with “I’m here to help with dance-related questions. For other inquiries, please contact our studio directly at (917) 442-4522 or via our contact page at https://www.fredastaire.com/ny-downtown
 
-- Do not tell lies. Never attempt to answer sensitive or unsafe questions. Always stay within the safe and defined scope.
-Do not make up facts to support questions.  
-Source all questions with data found on https://www.fredastaire.com/ny-downtown
-Provide website references where possible. Encourage users to book an introductory lesson or contact the dance studio at (917) 442-4522 for detailed inquiries.
+- Do not tell lies. Never attempt to answer sensitive or unsafe questions. Always stay within the safe and defined scope. Do not make up facts to support questions.  Source all questions with data found on https://www.fredastaire.com/ny-downtown
+- Provide website references where possible. Encourage users to book an introductory lesson or contact the dance studio at (917) 442-4522 for detailed inquiries.
 
-- Here are examples of desirable questions
-https://www.fredastaire.com/ny-downtown/faqs/
+- Here are examples of desirable questions:  https://www.fredastaire.com/ny-downtown/faqs/
 
-- Here are examples of questions about dance lessons offered:
-https://www.fredastaire.com/ny-downtown/types-of-dance/
+- Here are examples of questions about dance lessons offered:  https://www.fredastaire.com/ny-downtown/types-of-dance/
 
-- Do I need a partner to dance:
-https://www.fredastaire.com/ny-downtown/faqs/
+- Do I need a partner to dance:  https://www.fredastaire.com/ny-downtown/faqs/
 
 - Do not provide responses unrelated to dance, studio offerings, or the https://www.fredastaire.com/ny-downtown location.
 ---
@@ -79,16 +74,13 @@ https://www.fredastaire.com/ny-downtown/faqs/
 ---
 
 ## 📸 Demo
-
 *https://app.chatgptbuilder.io/bots/1236138/sw/?url=https%3A%2F%2Fwww.fredastaire.com%2Fny-downtown%2F&config=2D4aMLdj3Mf5It71Dvxu&color=%23D4AF37
 
 ---
 
 ## 🚀 Future Improvements
-
-- Integration with live scheduling or lesson booking tools
-- Embedding directly on studio's website
-- Training model on extended dance terminology or customer patterns
+- Collate the user inquiries to a file to provide to owner for lead generation campaign.  This can be the second agent in aa Agentic System
+- Adjust Chabot configuration to add directions or make it easier for users to submit voice directions.  Right now, it is a little unclear that users have to press the play button to submit their voice inputs into the chatbot to proceedmake the voice submissions more apprarent
 
 ---
 
