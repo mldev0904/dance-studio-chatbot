@@ -85,15 +85,4 @@ The dance studio offers an introductory special lesson for $50 for one 30 minute
 ---
 
 ## 🤝 Author
-
-**Marjorie Lamour**  
-AI Chatbot Creator | AI Engineer  
-[LinkedIn](https://www.linkedin.com/in/marjorielamour/) | [GitHub Portfolio](https://github.com/mldev0904)
-
----
-
-## 📞 Studio Contact Info
-
-Fred Astaire Dance Studios – New York, NY  
-📍 [fredastaire.com/ny-downtown](https://www.fredastaire.com/ny-downtown)  
-📞 (917) 442-4522  
+**Marjorie Lamour**  AI Chatbot Creator | AI Engineer  [LinkedIn](https://www.linkedin.com/in/marjorielamour/) | [GitHub Portfolio](https://github.com/mldev0904)
